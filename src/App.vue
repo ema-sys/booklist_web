@@ -6,7 +6,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navBarToggler">
-          <a class="navbar-brand" href="#/Home">蔵書管理アプリケーション</a>
+          <a class="navbar-brand" href="#/Home">蔵書管理アプリケーション（Azure Static Web App）</a>
           <ul class="navbar-nav">
             <li><a class="nav-link"><router-link id="HomeNav" class="text-white" to="/Home">ホーム</router-link></a></li>
             <li><a class="nav-link"><router-link id="BooklistNav" class="text-white" to="/Booklist">書籍リスト</router-link></a></li>
